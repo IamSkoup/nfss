@@ -1,0 +1,5 @@
+node_modules/
+test-results/
+playwright-report/
+js/model-data.js
+*.zip
